@@ -143,3 +143,7 @@
   .footer-bg{
     background-image: linear-gradient(rgba(2, 6, 20, 1), rgb(9, 69, 71));
   }
+
+  .jumbotron{
+      border-radius: 1rem;
+  }
