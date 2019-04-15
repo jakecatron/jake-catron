@@ -146,7 +146,9 @@
 
   .jumbotron{
       border-radius: 0rem;
-      background-size: cover;
+      background-size: 100%;
       background-position: center;
       margin-bottom: 0px;
+      height: 100vh;
+      width: auto;
   }
