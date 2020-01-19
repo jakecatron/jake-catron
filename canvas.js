@@ -12,11 +12,11 @@ var mouse = {
 var maxRadius = 40;
 
 var colorArray = [
-    '#65737e',
-    '#c0c5ce',
-    '#a7adba',
-    '#343d46',
-    '#4f5b66'
+    '#F2E530',
+    '#F29F05',
+    '#BF6B04',
+    '#593202',
+    '#261201'
 ];
 
 console.log(colorArray.length);
